@@ -102,6 +102,7 @@ describe('🧪 Suíte de Testes Unitários - 10 Regras de Negócio', () => {
     expect(ehTrianguloValido(0, 4, 5)).toBe(false);
   });
 
+  
   // 10. Teste da remoção de elementos
   test('10. removerElemento: deve remover elementos sem alterar o original', () => {
     const listaOriginal = ['banana', 'maca', 'uva'];
