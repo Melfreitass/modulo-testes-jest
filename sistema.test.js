@@ -10,7 +10,7 @@ const {
   criarAluno,
   aplicarDesconto,
   validarTamanhoSenha
-} = require('./sistema/sistema');
+} = require('./sistema');
 
 describe('📚 Suíte de Testes Unitários - 10 Funções Lógicas Iniciais', () => {
 
